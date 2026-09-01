@@ -1,4 +1,4 @@
-// Auto Scroll — official WebToApp sample.
+// Auto Scroll — official Agweb sample.
 //
 // Demonstrates:
 //  - requestAnimationFrame-based smooth scrolling (not setInterval +
