@@ -1,4 +1,4 @@
-// Reading Mode — official WebToApp sample.
+// Reading Mode — official Agweb sample.
 //
 // Demonstrates the full module surface in one place:
 //  - Reads multiple typed configItems via getConfig()
@@ -139,7 +139,7 @@
   }
 
   // ── panel button registration ─────────────────────────────────────
-  // Lets users summon Reading Mode from WebToApp's floating panel.
+  // Lets users summon Reading Mode from Agweb's floating panel.
   // The runtime handles the visual button — we just hand it a callback.
   if (typeof __WTA_MODULE_UI__ !== 'undefined' && __WTA_MODULE_UI__.register) {
     __WTA_MODULE_UI__.register({
