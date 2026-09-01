@@ -1,6 +1,6 @@
 # Module Market
 
-This directory **is** the WebToApp Module Market. Every JS/CSS module the
+This directory **is** the Agweb Module Market. Every JS/CSS module the
 in-app market shows is fetched directly from this folder over
 `raw.githubusercontent.com`, with `cdn.jsdelivr.net/gh/` as a CDN fallback.
 There is no other backend. A merged PR is published the moment it lands on
@@ -102,7 +102,7 @@ There is no separate developer account, no API key, no submission portal.
       "name": "Greeting text",
       "description": "Shown in the floating banner.",
       "type": "TEXT",
-      "defaultValue": "Hello, WebToApp!",
+      "defaultValue": "Hello, Agweb!",
       "required": false
     }
   ]
@@ -200,7 +200,7 @@ entry mirrors the module manifest plus a `path` (folder name) and a
 ```
 
 `minAppVersion` lets you ship a module that needs APIs only present from a
-specific WebToApp `versionCode` onwards — older clients hide the entry.
+specific Agweb `versionCode` onwards — older clients hide the entry.
 The current `versionCode` is **61** (`v2.5.5`); set this only if you
 genuinely depend on a newer build.
 
@@ -391,7 +391,7 @@ For maintainers — this is what gets checked before a merge.
 <a id="中文"></a>
 ## 中文
 
-这个目录就是 WebToApp 的**模块市场**。所有用户在 App 里看到的市场模块都是直
+这个目录就是 Agweb 的**模块市场**。所有用户在 App 里看到的市场模块都是直
 接从这个文件夹通过 `raw.githubusercontent.com` 拉取的，CDN 兜底是
 `cdn.jsdelivr.net/gh/`。**没有其他后端**。PR 一旦合并到 `main`，下一刻就上
 线。
