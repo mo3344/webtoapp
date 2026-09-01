@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-09-01T00:00:00Z",
+  "submissions": {
+    "wta-auto-open-video-player": {
+      "prNumber": 134,
+      "prUrl": "https://github.com/mo3344/webtoapp/pull/134",
+      "submittedAt": "2026-06-22T14:42:48Z",
+      "submitter": {
+        "login": "Stremiouser666",
+        "name": "Steveies",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/184891406?v=4",
+        "profileUrl": "https://github.com/Stremiouser666"
+      },
+      "contributors": [
+        {
+          "login": "mo3344",
+          "name": "mo3344",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+          "profileUrl": "https://github.com/mo3344"
+        }
+      ]
+    },
+    "wta-auto-scroll": {
+      "submittedAt": "2026-05-23T15:28:53+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-hello-world": {
+      "submittedAt": "2026-05-16T01:13:57+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-reading-mode": {
+      "submittedAt": "2026-05-23T15:28:53+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-selection-actions": {
+      "submittedAt": "2026-06-17T21:43:16+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-tv-dpad-cursor": {
+      "submittedAt": "2026-06-17T21:30:12+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-web-tint": {
+      "submittedAt": "2026-06-17T21:43:16+08:00",
+      "direct": true,
+      "submitter": {
+        "login": "mo3344",
+        "name": "mo3344",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+        "profileUrl": "https://github.com/mo3344"
+      }
+    },
+    "wta-youtube-player": {
+      "prNumber": 149,
+      "prUrl": "https://github.com/mo3344/webtoapp/pull/149",
+      "submittedAt": "2026-06-28T05:58:43Z",
+      "submitter": {
+        "login": "Stremiouser666",
+        "name": "Steveies",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/184891406?v=4",
+        "profileUrl": "https://github.com/Stremiouser666"
+      },
+      "contributors": [
+        {
+          "login": "mo3344",
+          "name": "mo3344",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/0?v=4",
+          "profileUrl": "https://github.com/mo3344"
+        }
+      ]
+    }
+  }
+}
