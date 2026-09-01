@@ -36,7 +36,7 @@
       "name": "Greeting text",
       "description": "Shown in the floating banner.",
       "type": "TEXT",
-      "defaultValue": "Hello from WebToApp!",
+      "defaultValue": "Hello from Agweb!",
       "required": false
     },
     {
